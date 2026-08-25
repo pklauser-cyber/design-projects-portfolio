@@ -51,6 +51,8 @@ The bottom portion of the jaw is able to freely move inside groove that was desi
 ## Patent: #1,133,236, Author: Karl Peterson
 two alternatives that can serve a similar function to the adjustable wrench are the universal socket head and the adjustable pliers wrench. In the patent I noticed that the moving bottom portion of the jaw has a very large contact area with the grooved pin that slides through the track. I believe that design decision was made so that the bottom jaw of the wrench could handle high forces without shearing with that connection to the grooved pin.
 
+## Documentation standard
+Throughout this semester my documents will focus on having enough detail to give the reader a good understanding of the problem, my design decisions and why I made those decisions, and the final solution.
 
 
 
