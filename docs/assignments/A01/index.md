@@ -33,3 +33,31 @@ The projects do go into some detail on the design decisions used in each project
 ## Communication
 
 The individual focused on the most important details when communicating their projects. They mostly highlighted specific design choices that may show that they can make unique solutions for unique problems
+
+
+## Product analysis: Adjustable Wrench
+
+## Primary Function
+The primary function of the adjustable wrench is to allow for the geometry of the wrench to be changed in order to tighten and loosen standardized fasteners of varying sizes using a single tool.
+
+## governing Model
+uses rigid bodies to transfer force and friction to lock the wrench into a desired position to transmit force to fasteners
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
