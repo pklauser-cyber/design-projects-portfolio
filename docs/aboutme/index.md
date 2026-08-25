@@ -1,4 +1,4 @@
-#About Me
+##About Me
 My name is Patrick Klauser and I'm pursuing a degree in mechanical engineering. I've always been interested in machines especially aircraft and spacecraft which brought me to deciding to major in mechanical engineering. My goal as an engineer is to be able to effectively design things and follow all the standards required when doing so. I also want to have lots of experience with team environments alongside practicing the ability to explain the design's I create to anybody regardless of their background. Over the course of my education I've been able to complete multiple projects and take part in competitions with the Wake Tech engineering club. Through those experiences I've become proficient with Fusion 360, 3D Printing, and working in team environments with deadlines. I hope to achieve my goals as a mechanical engineering student while staying curious about the world throughout the whole process.
 
 ## What does it mean to defend an engineering decision?
