@@ -41,12 +41,15 @@ The individual focused on the most important details when communicating their pr
 The primary function of the adjustable wrench is to allow for the geometry of the wrench to be changed in order to tighten and loosen standardized fasteners of varying sizes using a single tool.
 
 ## governing Model
-uses rigid bodies to transfer force and friction to lock the wrench into a desired position to transmit force to fasteners
+uses rigid bodies to transfer force and friction to lock the wrench into a desired position to transmit force to fasteners. 
 
 
 
 ![Wrench] (Image-IMG_5507.jpeg.jpeg)
+The bottom portion of the jaw is able to freely move inside groove that was designed into the body of the wrench. The moving jaw is meant to make contact with the end of a fastener so that the fastener can be rotated. The worm gear is placed inside of the body and maintains contact with grooves on the back of the jaw. The worm gear is able to move the jaw up and down when rotated with your hand so that the jaw can be adjusted but also hold its position after being adjusted. inside of the worm gear there is a pin and a spring. The pin keeps the worm gear inside of the body of the wrench while the spring helps keep the jaw in place after the position is set.
 
+## Patent: #1,133,236, Author: Karl Peterson
+two alternatives that can serve a similar function to the adjustable wrench are the universal socket head and the adjustable pliers wrench. In the patent I noticed that the moving bottom portion of the jaw has a very large contact area with the grooved pin that slides through the track. I believe that design decision was made so that the bottom jaw of the wrench could handle high forces without shearing with that connection to the grooved pin.
 
 
 
