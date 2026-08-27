@@ -4,7 +4,7 @@
 
 This site is a portfolio of my projects that I've completed in my MEGR 2157 class
 
-> **Engineering is the art of making decisions you can defend.**
+
 
 ## The three pillars
 
