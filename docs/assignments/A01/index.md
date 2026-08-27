@@ -58,6 +58,8 @@ I decided to change my banner to a picture from taken from a high altitude ballo
 ## Documentation standard
 Throughout this semester my documents will focus on having enough detail to give the reader a good understanding of the problem, my design decisions, and the final solution.
 
+## Time Spent
+I spent roughly 5 hours on this assignment because It took quite some time to familiarize myself with github. I also spent some time figuring out the whole idea of having a portfolio in github with this file style format because I've never been exposed to a format like this.
 
 
 
