@@ -45,7 +45,7 @@ uses rigid bodies to transfer force and friction to lock the wrench into a desir
 
 
 
-![Wrench] (Image-IMG_5507.jpeg.jpeg)
+![Wrench] (Image-IMG_5507.jpeg)
 The bottom portion of the jaw is able to freely move inside groove that was designed into the body of the wrench. The moving jaw is meant to make contact with the end of a fastener so that the fastener can be rotated. The worm gear is placed inside of the body and maintains contact with grooves on the back of the jaw. The worm gear is able to move the jaw up and down when rotated with your hand so that the jaw can be adjusted but also hold its position after being adjusted. inside of the worm gear there is a pin and a spring. The pin keeps the worm gear inside of the body of the wrench while the spring helps keep the jaw in place after the position is set.
 
 ## Patent: #1,133,236, Author: Karl Peterson
