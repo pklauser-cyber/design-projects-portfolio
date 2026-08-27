@@ -56,7 +56,7 @@ two alternatives that can serve a similar function to the adjustable wrench are 
 I decided to change my banner to a picture from taken from a high altitude balloon with a payload structure that I designed. I chose this banner because It's something I think that was impressive that I helped make possible.
 
 ## Documentation standard
-Throughout this semester my documents will focus on having enough detail to give the reader a good understanding of the problem, my design decisions and why I made those decisions, and the final solution.
+Throughout this semester my documents will focus on having enough detail to give the reader a good understanding of the problem, my design decisions, and the final solution.
 
 
 
