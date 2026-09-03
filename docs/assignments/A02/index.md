@@ -2,7 +2,7 @@
 
 ## Objective
 In this assignment I was tasked with designing a truss to made of a500 steel to support a load at two different points with a factor of safety of 3.5.
-![Truss](IMG_5610.jpeg)
+![Truss](IMG_5605.jpeg)
 ## Analyze
 
 
