@@ -27,6 +27,7 @@ For this section I began by using Gemini to give me a description of what the di
 ![Truss5](IMG_5614.jpeg)
 ![Truss5](IMG_5615.jpeg)
 ![Truss5](IMG_5616.jpeg)
+
 ## Conclusion
 Designing this truss was my first time combining my knowledge of statics and solid mechanics to make a full size structure that can theoretically carry a certain load at two different points without failing. I’m surprised at how simple this was to do once I understood what the goals and constraints of the design were. I had to use statics to solve for the forces and then mechanics to solve for the cross sectional area needed for all the beams and pins. The main thing I’ve learned is how approachable designing these structures is after you understand the fundamentals.
 
