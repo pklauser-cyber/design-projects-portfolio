@@ -16,7 +16,7 @@ After doing the calculations for the cross sectional area I was able to calculat
 ![Truss4](IMG_5610.jpeg)
 ![Truss5](IMG_5611.jpeg)
 ## Cad Design
-For my CAD design I used Fusion360 I used the exact lengths and widths of my beams alongside the diameters of the bolts in each section. I then extruded the entire thing by 16mm to create the overall shape. In fusion 360 I set the material for the structure as Mild Steel to get a weight calculation.
+For my CAD design I used Fusion360 I used the exact lengths and widths of my beams alongside the diameters of the bolts in each section. I then extruded the entire thing by 16mm to create the overall shape. In fusion 360 I set the material for the structure as Mild Steel to get a weight calculation. Cad Files: Here
 ![TrussCAD](designlab2.png)
 ![Truss5](IMG_5617.jpeg)
 
