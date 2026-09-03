@@ -24,7 +24,6 @@ For my CAD design I used Fusion360 I used the exact lengths and widths of my bea
 For this section I began by using Gemini to give me a description of what the different failure modes where and how they occurred. Using that information I gave a description of what I believed was the most likely cause of failure in each member and how the likelihood of that failure could be reduced. For the pins I used that same method describing the failure mode of the bolt and how it's likelihood could be reduced.
 ![Truss5](IMG_5612.jpeg)
 ![Truss5](IMG_5613.jpeg)
-![Truss5](IMG_5614.jpeg)
 ![Truss5](IMG_5615.jpeg)
 ![Truss5](IMG_5616.jpeg)
 
