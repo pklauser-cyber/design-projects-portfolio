@@ -1,4 +1,4 @@
-# A3 – [Topic]
+# A3 – Parametric Design and FEA of a Beam
 
 ## Objective
 
