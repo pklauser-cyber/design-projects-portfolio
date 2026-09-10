@@ -8,6 +8,7 @@ To begin this project I chose the dimensions of my beam as 4in in diameter and 8
 Using the video provided I was able to set up a FEA simulation with one side of the bar fixed in place and the other side of the bar had the 400lb load attached. After running the sim I was able to see the total elongation and total stress felt by the beam.
 ### elongation
 ![FEA1](Assignment3screenshot1.png)
+### FEA
 ![FEA2](Assignment3screenshot2.png)
 ![FEA3](Assignment3screenshot3.png)
 
