@@ -12,7 +12,7 @@ Using the video provided I was able to set up a FEA simulation with one side of 
 ![FEA2](Assignment3screenshot2.png)
 ![FEA3](Assignment3screenshot3.png)
 After doing the FEA I calculated that the max stress was significantly lower than the 40ksi strength of aluminum at 0.052ksi. I then calculated that the % difference between my calculated deflection and my actual deflection was about 2%. I would say this is a meaningful discrepancy and I believe it was caused by the mesh density. When generating the mesh the density looked to be very low and knowing that I believe it could have a worse approximation than my hand calculations. Overall I would trust the hand calculations more because the equations behind them have been tested for decades, if the mesh was much finer I would consider the mesh more seriously.
-
+![Work1](IMG_5645.jpeg)
 ## Decide
 
 
