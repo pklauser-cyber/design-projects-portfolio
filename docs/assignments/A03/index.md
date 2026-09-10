@@ -15,7 +15,7 @@ After doing the FEA I calculated that the max stress was significantly lower tha
 ![Work1](IMG_5645.jpeg)
 ## Pin Hole 
 For the pin hole calculations I used Peterson's chart equations and made a pin hole with a 2in diameter.
-
+![Work1](IMG_5646.jpeg)
 
 ## Communicate
 
