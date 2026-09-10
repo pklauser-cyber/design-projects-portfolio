@@ -20,7 +20,7 @@ For the pin hole calculations I used Peterson's chart equations and made a pin h
 ## Modify Parameters
 For this section I increased the load on the beam to 1000lbs. I believe the increased force will make the beams length increase even further then it did previously.
 ![FEA3](Assignment3image4.png)
-In this case the beam elongated about 6.53E-5in which is more than double the deflection of the beam at the previous for pounds. This is easy to predict as the equation for delta = FL/AE and increasing F by slightly over 2x should increase the elongation to the exact same amount.
+In this case the beam elongated about 6.53E-5in which is more than double the deflection of the beam at the previous 4 pounds. This is easy to predict as the equation for delta = FL/AE and increasing F by slightly over 2x should increase the elongation to the exact same amount.
 ## Lessons Learned
 After completing this assignment I feel that I've just began learning how to use parametric CAD in a more powerful way. I've also used the simulation part of a parametric CAD for the first time and I enjoyed how smoothly it went. I feel much more empowered to try these features on my own for design's that I've already made for 3d printing. This took me about 6 hours and I got a bit confused about getting the equations inside of the parameters in fusion360. 
 
