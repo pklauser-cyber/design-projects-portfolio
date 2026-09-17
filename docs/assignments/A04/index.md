@@ -7,7 +7,7 @@ I chose ABS for 3 main reasons, the first being that it has the 2nd highest stif
 For this feature I chose a length of 38mm because this gave 5mm of extra space on each side of the feature. The extra 5mm allows for the top of any bolts to protrude outwards and gives more material for the mounting holes to transfer stresses onto. For the thickness I chose 38mm again to allow for extra material around the holes of the mounting points to help transfer stresses.I also assumed the ABS had an elastic modulus of 875Mpa and a yield point of 50Mpa.
 ![work1](IMG_5692.jpeg)
 ![work1](IMG_5693.jpeg)
-
+[CAD Files](Motor Mount.step)
 
 ## Decide
 
