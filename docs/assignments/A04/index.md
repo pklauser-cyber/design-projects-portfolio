@@ -8,8 +8,4 @@ For this feature I chose a length of 38mm because this gave 5mm of extra space o
 ![work1](IMG_5692.jpeg)
 ![work1](IMG_5693.jpeg)
 [CAD Files](Motor%20Mount.step)
-## Decide
-
-
-## Communicate
 
