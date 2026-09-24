@@ -10,9 +10,13 @@ For feature A I chose a length of 5.75in since that is the width of the strap th
 ![Page1](IMG_5723.jpeg)
 ![Page2](IMG_5724.jpeg)
 ### Feature B 
-For feature B I chose a length of 18.34in in order to fit the entire roll of polyester cord strapping. Looking back it this was completely unnecessary since the problem states that only a single piece of the strap is pulling on the feature. 
+For feature B I chose a length of 18.34in in order to fit the entire roll of polyester cord strapping. Looking back this was completely unnecessary since the problem states that only a single piece of the strap is pulling on the feature. I also assumed load P was purely axial to simplify calculations and that was the same reason I chose to treat the moments as negligible.
 ![Page2](IMG_5724.jpeg)
 ![Page3](IMG_5725.jpeg)
+### Feature C 
+For feature C I chose to treat it as a beam between with fixed supports on either side and a point load at it's center. I assumed the feature wont fail in shear because this simplifies calculations. I chose the point load to be at the center because the feature connected to it is connected at the center and although it would change things slightly if I treated it as a distributed load I deemed it to be negligible.
+![Page3](IMG_5725.jpeg)
+![Page4](IMG_5726.jpeg)
 ## Decide
 
 
