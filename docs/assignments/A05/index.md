@@ -23,10 +23,11 @@ For feature D I chose to treat it as two beams with a fixed support above both a
 ### Sketches
 ![Page6](IMG_5728.jpeg)
 ### Link Component
-![Page7](IMG_5730.jpeg)
+For the hole on this component that is connecting to feature A I chose to manufacture it using a precision drill and then a reamer to get the hole to it's close tolerance. I chose that combination because it is capable of achieving the 0.0008in tolerance for the hole. For the hole connecting to the 1in shaft I chose the same manufacturing method because it is within the 0.0008in tolerance. For the shaft a lathe using precision turning with a final grind should be able to get the shaft within a 0.0005in tolerance. 
+![Page7](IMG_5731.jpeg)
 ## Decide
 
 
 ## Communicate
-In this project my feature C had a close value for both its height required for the stress 0.336in and its height required for the stiffness 0.36in. Ultimately I chose 0.36in and I believe the it needed the extra thickness in bending because the load was far from the supports which created a much higher moment at the supports and ultimately a higher stress. I was able to prevent all errors from propagating by double checking all of my equations and their units. For feature C I had assumed that It would not fail in shear, if this assumption was incorrect then that part could have a shear failure.
+In this project my feature C had a close value for both its height required for the stress 0.336in and its height required for the stiffness 0.36in. Ultimately I chose 0.36in and I believe the it needed the extra thickness in bending because the load was far from the supports which created a much higher moment at the supports and ultimately a higher stress. I was able to prevent all errors from propagating by double checking all of my equations and their units. For feature C I had assumed that It would not fail in shear, if this assumption was incorrect then that part could have a shear failure. Overall in this project my main takeaway is the refined skills I've gained with calculating bending stress. This project took me roughly 10 hours to complete.
 
