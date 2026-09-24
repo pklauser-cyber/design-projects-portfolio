@@ -17,6 +17,11 @@ For feature B I chose a length of 18.34in in order to fit the entire roll of pol
 For feature C I chose to treat it as a beam between with fixed supports on either side and a point load at it's center. I assumed the feature wont fail in shear because this simplifies calculations. I chose the point load to be at the center because the feature connected to it is connected at the center and although it would change things slightly if I treated it as a distributed load I deemed it to be negligible.
 ![Page3](IMG_5725.jpeg)
 ![Page4](IMG_5726.jpeg)
+### Feature D
+For feature D I chose to treat it as two beams with a fixed support above both and a point load pulling down axially on each. I set P as 600lbs on each since intuitively I knew the forces would be distributed to both features evenly because they were symmetrical.
+![Page5](IMG_5727.jpeg)
+### Sketches
+![Page6](IMG_5728.jpeg)
 ## Decide
 
 
