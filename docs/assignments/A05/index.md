@@ -22,8 +22,11 @@ For feature D I chose to treat it as two beams with a fixed support above both a
 ![Page5](IMG_5727.jpeg)
 ### Sketches
 ![Page6](IMG_5728.jpeg)
+### Link Component
+![Page7](IMG_5730.jpeg)
 ## Decide
 
 
 ## Communicate
+In this project my feature C had a close value for both its height required for the stress 0.336in and its height required for the stiffness 0.36in. Ultimately I chose 0.36in and I believe the it needed the extra thickness in bending because the load was far from the supports which created a much higher moment at the supports and ultimately a higher stress. I was able to prevent all errors from propagating by double checking all of my equations and their units. For feature C I had assumed that It would not fail in shear, if this assumption was incorrect then that part could have a shear failure.
 
