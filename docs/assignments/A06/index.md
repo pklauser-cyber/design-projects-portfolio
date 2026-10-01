@@ -13,6 +13,13 @@ In order to create my parametric CAD model I needed to first create my parameter
 ![Screenshot3](Dimension2.png)
 ![Screenshot4](Dimension3.png)
 ![Screenshot5](H4.png)
+![Screenshot6](Bracket.jpg)
+![Screenshot7](BracketDrawing.jpg)
+![Screenshot8](Link.jpg)
+![Screenshot9](LinkDrawing.jpg)
+
+
+
 
 ## Communicate
 
