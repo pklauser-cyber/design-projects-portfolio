@@ -9,6 +9,8 @@ In order to create my parametric CAD model I needed to first create my parameter
 
 ## CAD 
 ![Screenshot1](Dimension1.png)
-
+![Screenshot1](Dimension1.png)
+![Screenshot1](Dimension1.png)
+![Screenshot1](Dimension1.png)
 ## Communicate
 
