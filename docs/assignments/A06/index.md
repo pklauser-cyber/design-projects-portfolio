@@ -17,7 +17,7 @@ In order to create my parametric CAD model I needed to first create my parameter
 ![Screenshot5](H4.png)
 ### Models + Drawings
 ![Screenshot6](Bracket.jpg)
-![Screenshot7](BracketDrawing.jpg)
+![Screenshot7](BracketDrawing2.jpg)
 ![Screenshot8](Link.jpg)
 ![Screenshot9](LinkDrawing.jpg)
 
