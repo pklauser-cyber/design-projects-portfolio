@@ -8,7 +8,7 @@ In order to create my parametric CAD model I needed to first create my parameter
 
 
 ## CAD
-![BracketFile](A6.step) & ![LinkFile](A6Link.step)
+![Bracket](A6.step) & ![Link](A6Link.step) Files
 ### Parameters
 ![Screenshot1](Parameters.jpg)
 ### Dimensions
