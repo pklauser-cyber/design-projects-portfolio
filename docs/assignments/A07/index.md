@@ -137,6 +137,9 @@ Displacement: 0.032mm, location: at the point load underneath the smallest hole
 Mass: 3.235 ounce mass
 Safety Factor: 6.20 lowest
 Number of  elements: 1200
+![screenshot#1](image16.png)
+![screenshot#2](image9.png)
+### Revision #2
 
 
 ## Communicate
