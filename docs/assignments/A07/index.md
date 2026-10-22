@@ -181,4 +181,4 @@ Number of  elements: 1392
 ![screenshot#1](image6.png)
 ![screenshot#2](image7.png)
 ## Communicate
-
+After completing this assignment I have gained valuable experience as this was my first time using FEA. I enjoyed getting to see the visualization of stresses inside of the part and optimizing it for its intended purpose. One of the main things I learned is that in Fusion360 its best to keep the mesh moderately fine but then use the adaptive mesh refinement tool to automatically decrease the mesh size near areas with large changes in stress.
