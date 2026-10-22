@@ -96,6 +96,24 @@ Number of  elements: 1344
 
 ## Link
 ### Original Design
+#### 1st Run
+Stress: 39.635 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.019mm, location: at the point load underneath the smallest hole
+Mass: 3.653 ounce mass
+Safety Factor: 9.31 lowest
+Number of elements: 204
+#### 2nd Run
+Stress: 44.279 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.02mm, location: at the point load underneath the smallest hole
+Mass: 3.653 ounce mass
+Safety Factor: 8.33 lowest
+Number of elements: 378
+#### 3rd Run
+Stress: 46.598 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.02mm, location: at the point load underneath the smallest hole
+Mass: 3.653 ounce mass
+Safety Factor: 7.919 lowest
+Number of  elements: 1344
 
 
 
