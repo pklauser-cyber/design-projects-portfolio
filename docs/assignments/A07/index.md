@@ -53,6 +53,21 @@ Safety Factor: 3.743 lowest
 ![screenshot#2](image2.png)
 
 ### Revision #2
+#### Changes
+Added a triangular brace to reduce deflection and made cuts to reduce weight in areas that aren’t bearing much load. 
+#### 1st run
+Stress: 160.84 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 4.825mm, location: end of circular feature
+Mass: 65.373 ounce mass
+Safety Factor: 2.294 lowest
+number of elements: 4518
+#### 2nd run
+Stress: 160.589 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 4.832mm, location: end of circular feature
+Mass: 65.373 ounce mass
+Safety Factor: 2.298 lowest
+number of elements: 8355
+
 
 
 
