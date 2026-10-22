@@ -27,6 +27,29 @@ these are within 7% of each other in all major areas
 ![screenshot#1](image13.png)
 ![screenshot#2](image11.png)
 
+### Revision #1
+####Changes
+After the initial run I noticed the safety factor was much too low. In order to increase the safety factor I increased the cross sectional area of the longest feature in the design.
+#### 1st run
+Stress: 117.04 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 10.46mm, location: end of circular feature
+Mass: 72.902 ounce mass
+Safety Factor: 3.153 lowest
+number of elements: 1545
+#### 2nd run
+Stress: 102.886 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 10.443mm, location: end of circular feature
+Mass: 72.902 ounce mass
+Safety Factor: 3.587 lowest
+# of elements: 2205
+#### 3rd run
+Stress: 98.597 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 10.445mm, location: end of circular feature
+Mass: 72.902 ounce mass
+Safety Factor: 3.743 lowest
+# of elements: 2085
+
+
 
 
 ## Communicate
