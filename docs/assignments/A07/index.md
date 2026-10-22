@@ -114,8 +114,29 @@ Displacement: 0.02mm, location: at the point load underneath the smallest hole
 Mass: 3.653 ounce mass
 Safety Factor: 7.919 lowest
 Number of  elements: 1344
-
-
+![screenshot#1](image4.png)
+![screenshot#2](image8.png)
+### Revision #1
+#### Changes
+Removed material in low stress regions
+#### 1st run
+Stress: 52.136 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.031mm, location: at the point load underneath the smallest hole
+Mass: 3.235 ounce mass
+Safety Factor: 7.071 lowest
+Number of  elements: 423
+#### 2nd run
+Stress: 60.488 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.032mm, location: at the point load underneath the smallest hole
+Mass: 3.235 ounce mass
+Safety Factor: 6.10 lowest
+Number of  elements: 534
+#### 3rd run
+Stress: 59.511 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.032mm, location: at the point load underneath the smallest hole
+Mass: 3.235 ounce mass
+Safety Factor: 6.20 lowest
+Number of  elements: 1200
 
 
 ## Communicate
