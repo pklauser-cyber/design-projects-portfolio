@@ -41,13 +41,13 @@ Stress: 102.886 MPa, location: fiber of longest feature facing the circular feat
 Displacement: 10.443mm, location: end of circular feature
 Mass: 72.902 ounce mass
 Safety Factor: 3.587 lowest
-# of elements: 2205
+ of elements: 2205
 #### 3rd run
 Stress: 98.597 MPa, location: fiber of longest feature facing the circular feature
 Displacement: 10.445mm, location: end of circular feature
 Mass: 72.902 ounce mass
 Safety Factor: 3.743 lowest
-# of elements: 2085
+ of elements: 2085
 
 ![screenshot#1](image12.png)
 ![screenshot#2](image2.png)
