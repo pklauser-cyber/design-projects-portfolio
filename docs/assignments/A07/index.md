@@ -24,8 +24,8 @@ number of elements: 1558
 
 these are within 7% of each other in all major areas
 
-![screenshot#1](image15.png)
-![screenshot#2](image16.png)
+![screenshot#1](image13.png)
+![screenshot#2](image11.png)
 
 
 
