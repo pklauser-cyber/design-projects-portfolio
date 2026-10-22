@@ -96,6 +96,7 @@ Number of  elements: 1344
 
 ## Link
 ### Original Design
+Material: 6061 T6 Cold Formed Aluminum
 #### 1st Run
 Stress: 39.635 MPa, location: at the point load underneath the smallest hole
 Displacement: 0.019mm, location: at the point load underneath the smallest hole
