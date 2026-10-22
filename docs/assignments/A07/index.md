@@ -84,7 +84,18 @@ Displacement: 4.829mm, location: end of circular feature
 Mass: 64.847 ounce mass
 Safety Factor: 2.241 lowest
 Number of elements: 6278
+#### 3rd run
+Stress: 46.598 MPa, location: at the point load underneath the smallest hole
+Displacement: 0.02mm, location: at the point load underneath the smallest hole
+Mass: 3.653 ounce mass
+Safety Factor: 7.919 lowest
+Number of  elements: 1344
 
+![screenshot#1](image3.png)
+![screenshot#2](image10.png)
+
+## Link
+### Original Design
 
 
 
