@@ -67,6 +67,24 @@ Displacement: 4.832mm, location: end of circular feature
 Mass: 65.373 ounce mass
 Safety Factor: 2.298 lowest
 number of elements: 8355
+![screenshot#1](image14.png)
+![screenshot#2](image10.png)
+### Revision #3
+#### Changes
+Removed material from low stress areas in the upper portion of the part
+#### 1st run
+Stress: 167.815 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 4.829mm, location: end of circular feature
+Mass: 64.847 ounce mass
+Safety Factor: 2.199 lowest
+Number of elements: 5339
+#### 2nd run
+Stress: 164.628 MPa, location: fiber of longest feature facing the circular feature
+Displacement: 4.829mm, location: end of circular feature
+Mass: 64.847 ounce mass
+Safety Factor: 2.241 lowest
+Number of elements: 6278
+
 
 
 
