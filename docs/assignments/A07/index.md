@@ -68,7 +68,7 @@ Mass: 65.373 ounce mass
 Safety Factor: 2.298 lowest
 number of elements: 8355
 ![screenshot#1](image14.png)
-![screenshot#2](image10.png)
+![screenshot#2](image15.png)
 ### Revision #3
 #### Changes
 Removed material from low stress areas in the upper portion of the part
