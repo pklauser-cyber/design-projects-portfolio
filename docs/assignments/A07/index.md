@@ -96,7 +96,7 @@ Number of  elements: 1344
 ![screenshot#2](image10.png)
 
 ## Link
-![CadFile](A6 Link.step
+![CadFile](A6Link.step)
 ### Original Design
 Material: 6061 T6 Cold Formed Aluminum
 #### 1st Run
