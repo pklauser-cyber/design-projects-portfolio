@@ -7,6 +7,7 @@ The objective of this assignment was to take the bracket we had already designed
 My process for doing each FEA will use the inner loop and outer loop system that was provided to me. I will do 3 outer loops of design revisions and each outer loop may have up to 3 inner loops of revising the number of elements inside of each FEA until I get two that converge.
 
 ## FEA's
+![CadFile](A6.step)
 ### Original Design
 Material: 6061 T6 Cold Formed Aluminum
 #### 1st Run
