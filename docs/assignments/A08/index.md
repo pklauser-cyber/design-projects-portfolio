@@ -27,9 +27,9 @@ required wall thickness was very low based on my calculations, almost any bearin
 ![Gearbox](IMG_5926.jpeg)
 ### CAD
 #### Gearbox without top half
-![Gearbox](A8GearboxWithRoof.jpg)
-#### Gearbox with top half
 ![Gearbox](A8GearboxWithoutRoof.jpg)
+#### Gearbox with top half
+![Gearbox](A8GearboxWithRoof.jpg)
 
 ## Communicate
 
