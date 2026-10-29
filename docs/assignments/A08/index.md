@@ -26,6 +26,7 @@ required wall thickness was very low based on my calculations, almost any bearin
 ### Two Component Gearbox sketch
 ![Gearbox](IMG_5926.jpeg)
 ### CAD
+I designed the gearbox halves to be fastened together with 4 m4 bolts and nuts
 File: [Gearbox](Gearbox.step)
 #### Gearbox without top half
 ![Gearbox](A8GearboxWithoutRoof.jpg)
@@ -33,5 +34,11 @@ File: [Gearbox](Gearbox.step)
 ![Gearbox](A8GearboxWithRoof.jpg)
 
 ## Communicate
-
-
+Overall I learned How to go through the process of taking initial known variables of a problem and using them to calculate the stresses in a part. Using that information I can find a part inside of a catalogue that meets all of the requirements for stress which ensure that it will work in the way I intend it too.
+## Technical Drawings
+I only have 5 since my gearbox uses the same design for the top and bottom half of the housing
+![Gearbox](A8ShaftInputDrawing.jpg)
+![Gearbox](A8ShaftOutputDrawing.jpg)
+![Gearbox](A8InputBearingDrawing.jpg)
+![Gearbox](A8OutputBearingDrawing.jpg)
+![Gearbox](GearboxBottomHalfDrawing.jpg)
