@@ -25,6 +25,11 @@ From these calculated values I chose porous bronze as my material because it exc
 required wall thickness was very low based on my calculations, almost any bearing from McMaster would work. Ultimately I chose the oil embedded 841 bronze sleeve journal bearing, one being for 1/8in shaft with a length of 1/4in, the other being for a 1/4in shaft with a length of 1/4in. I've learned that after doing your calculations for all the important properties you want in a part, choosing one from a catalogue is simple and enjoyable.
 ### Two Component Gearbox sketch
 ![Gearbox](IMG_5926.jpeg)
+### CAD
+#### Gearbox without top half
+![Gearbox](A8GearboxWithRoof.jpg)
+#### Gearbox with top half
+![Gearbox](A8GearboxWithoutRoof.jpg)
 
 ## Communicate
 
