@@ -12,7 +12,7 @@ My process for this assignment was to solve for the shear stress in the shafts t
 #### Calculations
 ![Input Shaft](IMG_5919.jpeg)
 #### Cad
-
+![Input Shaft](A8#1.jpeg)
 ### Output Shaft Calculations
 ![Output Shaft](IMG_5920.jpeg)
 ## Communicate
