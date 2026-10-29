@@ -22,7 +22,7 @@ My process for this assignment was to solve for the shear stress in the shafts t
 From these calculated values I chose porous bronze as my material because it exceeds all the requirements, works well with steel, and is very inexpensive.
 ### Journal Bearing Thickness Calculations
 ![Journal](IMG_5925.jpeg)
-required wall thickness was very low based on my calculations, almost any bearing from McMaster would work. Ultimately I chose the oil embedded 841 bronze sleeve journal bearing, one being for 1/8in shaft with a length of 1/4in, the other being for a 1/4in shaft with a length of 1/4in. I've learned that after doing your calculations for all the important properties you want in a part, choosing one from a catalogue is simple and enjoyable.
+required wall thickness was very low based on my calculations, almost any bearing from McMaster would work. Ultimately I chose the oil embedded 841 bronze sleeve journal bearing, the first designed for a 1/8in shaft with a length of 1/4in, the second for a 1/4in shaft with a length of 1/4in. I've learned that after doing your calculations for all the important properties you want in a part, choosing one from a catalogue is simple and enjoyable.
 ### Two Component Gearbox sketch
 ![Gearbox](IMG_5926.jpeg)
 ### CAD
