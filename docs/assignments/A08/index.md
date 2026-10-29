@@ -41,4 +41,4 @@ I only have 5 since my gearbox uses the same design for the top and bottom half 
 ![Gearbox](A8ShaftOutputDrawing.jpg)
 ![Gearbox](A8InputBearingDrawing.jpg)
 ![Gearbox](A8OutputBearingDrawing.jpg)
-![Gearbox](GearboxBottomHalfDrawing.jpg)
+![Gearbox](A8GearboxBottomHalfDrawing.jpg)
