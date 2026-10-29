@@ -8,7 +8,7 @@ My process for this assignment was to solve for the shear stress in the shafts t
 
 
 ## Decide
-
+### Input Shaft Calculations
 
 ## Communicate
 
