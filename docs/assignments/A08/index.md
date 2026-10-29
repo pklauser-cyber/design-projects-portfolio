@@ -18,5 +18,6 @@ My process for this assignment was to solve for the shear stress in the shafts t
 ![OutputShaft](A8OutputShaft.jpg)
 ### Journal Bearing Calculations
 ![Journal](IMG_5923.jpeg)
+![Journal](IMG_5924.jpeg)
 ## Communicate
 
