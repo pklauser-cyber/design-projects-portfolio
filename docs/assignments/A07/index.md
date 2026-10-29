@@ -29,7 +29,7 @@ these are within 7% of each other in all major areas
 ![screenshot#2](image11.png)
 
 ### Revision #1
-####Changes
+#### Changes
 After the initial run I noticed the safety factor was much too low. In order to increase the safety factor I increased the cross sectional area of the longest feature in the design.
 #### 1st run
 Stress: 117.04 MPa, location: fiber of longest feature facing the circular feature
