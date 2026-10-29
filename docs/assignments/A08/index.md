@@ -26,7 +26,7 @@ required wall thickness was very low based on my calculations, almost any bearin
 ### Two Component Gearbox sketch
 ![Gearbox](IMG_5926.jpeg)
 ### CAD
-File: [Gearbox](Gearbox)
+File: [Gearbox](Gearbox.step)
 #### Gearbox without top half
 ![Gearbox](A8GearboxWithoutRoof.jpg)
 #### Gearbox with top half
