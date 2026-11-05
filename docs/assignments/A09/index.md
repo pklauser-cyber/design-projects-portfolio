@@ -20,5 +20,11 @@ For round polyurethane belts on McMaster the 5/16in was the closest next size up
 rounded up the shaft size to 1/8in since that is a more standard size that can be bought readily.
 ### Journal Bearing Calculations
 ![journal](IMG_5964.jpeg)
+### Frame
+#### Calculations
+![frame](IMG_5965.jpeg)
+I chose Porous bronze because it was very inexpensive, met all the criteria, and is known to be highly compatible with steel.
 ## Communicate
+Overall in this assignment I learned quite a bit about the dynamics of pulleys, for example how the top portion of the belt on a pulley receives less force than the bottom portion of the belt. I also gained more experience solving for certain criteria that a part needed and then using that to decide which component to use in a system which. I find this to be very valuable and enjoyable because it takes out the guesswork if you didn't know how to do those kind's of calculations.
+
 
