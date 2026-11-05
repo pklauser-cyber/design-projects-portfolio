@@ -11,6 +11,8 @@ In this assignment my process was to first calculate the belt diameter needed to
 The constraints that I got to choose for the pulley system
 ![constraints](IMG_5958.jpeg)
 ### Calculations for Belt Diameter
-![belt](IMG_5958.jpeg)
+![belt](IMG_5959.jpeg)
+![belt](IMG_5960.jpeg)
+
 ## Communicate
 
