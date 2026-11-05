@@ -9,6 +9,6 @@ In this assignment my process was to first calculate the belt diameter needed to
 ## Decide
 ### Constraints 
 The constraints that I got to choose for the pulley system
-[constraints](IMG_5958.jpeg);
+![constraints](IMG_5958.jpeg)
 ## Communicate
 
