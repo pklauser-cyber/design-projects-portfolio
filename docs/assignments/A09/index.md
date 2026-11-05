@@ -17,5 +17,8 @@ For round polyurethane belts on McMaster the 5/16in was the closest next size up
 ### Calculations for Shaft Diameter
 ![shaft](IMG_5962.jpeg)
 ![shaft](IMG_5963.jpeg)
+rounded up the shaft size to 1/8in since that is a more standard size that can be bought readily.
+### Journal Bearing Calculations
+![journal](IMG_5964.jpeg)
 ## Communicate
 
