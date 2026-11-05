@@ -12,7 +12,7 @@ The constraints that I got to choose for the pulley system
 ![constraints](IMG_5958.jpeg)
 ### Calculations for Belt Diameter
 ![belt](IMG_5959.jpeg)
-![belt](IMG_5960.jpeg)
+![belt](IMG_5961.jpeg)
 
 ## Communicate
 
