@@ -13,6 +13,9 @@ The constraints that I got to choose for the pulley system
 ### Calculations for Belt Diameter
 ![belt](IMG_5959.jpeg)
 ![belt](IMG_5961.jpeg)
-
+For round polyurethane belts on McMaster the 5/16in was the closest next size up which is why I selected that belt.
+### Calculations for Shaft Diameter
+![shaft](IMG_5962.jpeg)
+![shaft](IMG_5963.jpeg)
 ## Communicate
 
